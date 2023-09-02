@@ -1,5 +1,5 @@
 # Image-Processing-in-C
 ### simple image processing in C
-<br><hr>
+<hr>
 To run the program u can use following command
-  gcc -o run main.c -lm
+<t><em>gcc -o run main.c -lm</em>
